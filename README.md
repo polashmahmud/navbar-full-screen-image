@@ -1,0 +1,1 @@
+# navbar-full-screen-image
