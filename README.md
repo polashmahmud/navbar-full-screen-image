@@ -4,7 +4,7 @@ It's a very simple navbar. Made with HTML and CSS only. The background image cha
 
 ###Live Demo: [Live](https://polashmahmud.github.io/navbar-full-screen-image/)
 
-##Some Image:
+##Some Image
 
 ![](../main/images/readme/1.png)
 ![](../main/images/readme/2.png)
